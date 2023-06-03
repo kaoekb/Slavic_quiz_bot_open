@@ -1,6 +1,6 @@
 # Бот Telegram, Квиз для игры в баре, тема славяне.
 
-### [@Slavic_quiz_bot](@Slavic_quiz_bot"Telegram channel") ***(тестовая версия)***
+### [@Slavic_quiz_bot](@Slavic_quiz_bot "Telegram channel") ***(тестовая версия)***
 
 
 Крутится на Railway и MongoDB.
